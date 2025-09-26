@@ -2,9 +2,11 @@ import './App.css'
 import ForecastViewer from './ForecastViewer'
 import CorrelationHeatmap from './CorrelationHeatmap'
 import { useState } from 'react'
+import RisksViewer from './RisksViewer'
+import ChemicalsViewer from './ChemicalsViewer'
 
 function App() {
-  const [view, setView] = useState<'forecast' | 'heatmap'>('forecast')
+  const [view, setView] = useState<'forecast' | 'heatmap' | 'risks' | 'chemicals'>('forecast')
 
   return (
     <div className="min-h-screen flex flex-col items-center p-6 gap-6 bg-gray-50">
@@ -19,14 +21,15 @@ function App() {
         >
           <option value="forecast">Forecast</option>
           <option value="heatmap">Heatmap</option>
+          <option value="risks">Risks</option>
+          <option value="chemicals">Chemicals</option>
         </select>
       </div>
 
-      {view === 'forecast' ? (
-        <ForecastViewer />
-      ) : (
-        <CorrelationHeatmap />
-      )}
+      {view === 'forecast' && <ForecastViewer />}
+      {view === 'heatmap' && <CorrelationHeatmap />}
+      {view === 'risks' && <RisksViewer />}
+      {view === 'chemicals' && <ChemicalsViewer />}
     </div>
   )
 }
