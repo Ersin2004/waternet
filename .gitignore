@@ -1,0 +1,12 @@
+*.xlsx
+*.xls
+*.csv
+
+# Gegenereerde data bestanden
+Normen_stoffen_zoetwater_cleaned.*
+Zware_metalen_normen.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
