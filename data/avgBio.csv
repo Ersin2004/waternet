@@ -1,0 +1,291 @@
+id;param_name;year;value;eenheid;x_avg;y_avg
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2010;4.11111;DIMSLS;123302;472649
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2011;2;DIMSLS;117895;474035
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2012;3;DIMSLS;127013;476532
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2014;4.66667;DIMSLS;118518;472794
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2015;2.71429;DIMSLS;119446;480384
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2016;5.28571;DIMSLS;122235;470826
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2017;3.66667;DIMSLS;119681;466061
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2018;2.71429;DIMSLS;118761;479492
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2019;4.14286;DIMSLS;123894;468481
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2020;3;DIMSLS;118578;472045
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2021;2.6;DIMSLS;119133;481081
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2022;3;DIMSLS;121455;471960
+BEMSDOVZDE_SOORT;Bemonsterde oeverzijde (uitgedrukt in waardebereik);2023;1.66667;DIMSLS;117484;472896
+BEMSRBTE_m;Monsterbreedte (m);2010;2.66667;m;123302;472649
+BEMSRBTE_m;Monsterbreedte (m);2011;1.25;m;117895;474035
+BEMSRBTE_m;Monsterbreedte (m);2012;1.4275;m;127013;476532
+BEMSRBTE_m;Monsterbreedte (m);2014;3.74167;m;118518;472794
+BEMSRBTE_m;Monsterbreedte (m);2015;2.12857;m;119446;480384
+BEMSRBTE_m;Monsterbreedte (m);2016;3.44444;m;123152;470952
+BEMSRBTE_m;Monsterbreedte (m);2017;3.58333;m;119681;466061
+BEMSRBTE_m;Monsterbreedte (m);2018;2.625;m;119384;478766
+BEMSRBTE_m;Monsterbreedte (m);2019;4.14091;m;124000;469259
+BEMSRBTE_m;Monsterbreedte (m);2020;2.78;m;118661;471287
+BEMSRBTE_m;Monsterbreedte (m);2021;4.1;m;119133;481081
+BEMSRBTE_m;Monsterbreedte (m);2022;3.11154;m;122209;471873
+BEMSRBTE_m;Monsterbreedte (m);2023;57.4937;m;118282;472049
+BEMSRBTE_m;Monsterbreedte (m);2024;1.5;m;123752;473686
+FOTO_n;Foto aantal;2017;1;DIMSLS;119681;466061
+FOTO_n;Foto aantal;2018;1;DIMSLS;119384;478766
+FOTO_n;Foto aantal;2019;1;DIMSLS;123894;468481
+FOTO_n;Foto aantal;2020;1;DIMSLS;118578;472045
+FOTO_n;Foto aantal;2021;1;DIMSLS;119133;481081
+FOTO_n;Foto aantal;2022;1;DIMSLS;121455;471960
+FOTO_n;Foto aantal;2023;202360;DIMSLS;118121;473132
+FOTO_n;Foto aantal;2024;370016;DIMSLS;123490;474373
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2010;12.4444;DIMSLS;123302;472649
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2011;1.125;DIMSLS;117895;474035
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2012;2.5;DIMSLS;127013;476532
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2014;1.8;DIMSLS;119039;469616
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2015;16.7143;DIMSLS;119446;480384
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2016;2;DIMSLS;126359;471392
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2018;4;DIMSLS;123752;473686
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2019;2;DIMSLS;124184;470621
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2022;2;DIMSLS;126359;471392
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2023;2;DIMSLS;121943;474551
+GRONDST_SOORT;Grondsoort (uitgedrukt in waardebereik);2024;2;DIMSLS;123752;473686
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2010;0.222222;DIMSLS;123302;472649
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2011;0;DIMSLS;117895;474035
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2012;1;DIMSLS;125754;477707
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2014;0;DIMSLS;118518;472794
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2015;0.857143;DIMSLS;119446;480384
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2016;0.428571;DIMSLS;122235;470826
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2017;0;DIMSLS;119681;466061
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2018;0.285714;DIMSLS;118761;479492
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2019;1.42857;DIMSLS;123894;468481
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2020;0;DIMSLS;118578;472045
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2021;0.4;DIMSLS;119133;481081
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2022;0.909091;DIMSLS;121455;471960
+KWELIDCTE_SOORT;Kwelindicatie (uitgedrukt in waardebereik);2023;0.5;DIMSLS;117484;472896
+MEA_n;Macro-evertebraten (n);2006;11.7431;n;121943;474551
+MEA_n;Macro-evertebraten (n);2024;37.1169;n;123228;475060
+MONSLTE_m;Monsterlengte (m);2011;100;m;117895;474035
+MONSLTE_m;Monsterlengte (m);2012;93.75;m;127013;476532
+MONSLTE_m;Monsterlengte (m);2014;75.5;m;119911;473552
+MONSLTE_m;Monsterlengte (m);2015;82.4;m;120247;479252
+MONSLTE_m;Monsterlengte (m);2016;227.778;m;123152;470952
+MONSLTE_m;Monsterlengte (m);2017;95;m;119681;466061
+MONSLTE_m;Monsterlengte (m);2018;115.625;m;119384;478766
+MONSLTE_m;Monsterlengte (m);2019;281.818;m;124000;469259
+MONSLTE_m;Monsterlengte (m);2020;97;m;118661;471287
+MONSLTE_m;Monsterlengte (m);2021;100;m;119133;481081
+MONSLTE_m;Monsterlengte (m);2022;238.462;m;122209;471873
+MONSLTE_m;Monsterlengte (m);2023;113.125;m;118282;472049
+MONSLTE_m;Monsterlengte (m);2024;23.2727;m;123276;474935
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2010;0;DIMSLS;123302;472649
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2011;16.625;DIMSLS;117895;474035
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2012;14;DIMSLS;127013;476532
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2014;27;DIMSLS;118518;472794
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2015;19.8571;DIMSLS;119446;480384
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2016;16.8571;DIMSLS;122235;470826
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2017;14;DIMSLS;119681;466061
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2018;16.625;DIMSLS;119384;478766
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2019;19.125;DIMSLS;123659;468652
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2020;14;DIMSLS;118578;472045
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2021;14;DIMSLS;119133;481081
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2022;14;DIMSLS;121455;471960
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2023;14;DIMSLS;118121;473132
+OEVBSIG_SOORT;Oeverbeschoeiing (uitgedrukt in waardebereik);2024;14;DIMSLS;123752;473686
+others_below_threshold;Visvangstfactor;2006;1178.56;DIMSLS;124373;470095
+others_below_threshold;Geleidendheid of EGV;2007;56.6667;mS/m;123836;470755
+others_below_threshold;Taludhoek boven water (uitgedrukt in waardebereik);2010;4.11111;DIMSLS;123302;472649
+others_below_threshold;Taludhoek boven water (uitgedrukt in waardebereik);2011;4.625;DIMSLS;117895;474035
+others_below_threshold;Bemonsterd oppervlak (m2);2012;708.833;m2;122591;471129
+others_below_threshold;Bemonsterd oppervlak (m2);2013;4000.5;m2;126359;471392
+others_below_threshold;Lengtefractieplanten (%);2014;36.6667;%;113824;481318
+others_below_threshold;Amfibien (n);2015;5;n;117888;474337
+others_below_threshold;Bemonsterd oppervlak (m2);2016;2625.5;m2;126359;471392
+others_below_threshold;Visvangstfactor;2018;188;DIMSLS;123752;473686
+others_below_threshold;Macrofauna bijvangst (n);2019;1357;n;124352;470680
+others_below_threshold;Bemonsterd oppervlak (m2);2022;2511.33;m2;126359;471392
+others_below_threshold;doorzicht andere code bestaat al;2023;-280.5;ug/l;119628;473067
+others_below_threshold;Bemonsteringsoppervlak (cm2);2024;79.6667;cm2;123490;474373
+PTN_BEDKG__;Plantenbedekking (%);2003;49.3333;%;116713;474700
+PTN_BEDKG__;Plantenbedekking (%);2005;43.7;%;126361;480317
+PTN_BEDKG__;Plantenbedekking (%);2006;9.11111;%;124358;473829
+PTN_BEDKG__;Plantenbedekking (%);2007;21.4643;%;123927;472566
+PTN_BEDKG__;Plantenbedekking (%);2008;15;%;124090;475826
+PTN_BEDKG__;Plantenbedekking (%);2009;13.3827;%;124866;472263
+PTN_BEDKG__;Plantenbedekking (%);2010;6.91024;%;123256;472660
+PTN_BEDKG__;Plantenbedekking (%);2011;5.89528;%;118082;474131
+PTN_BEDKG__;Plantenbedekking (%);2012;7.93526;%;127679;475978
+PTN_BEDKG__;Plantenbedekking (%);2014;4.71486;%;120172;471961
+PTN_BEDKG__;Plantenbedekking (%);2015;8.33702;%;121903;478292
+PTN_BEDKG__;Plantenbedekking (%);2016;6.54155;%;123319;469403
+PTN_BEDKG__;Plantenbedekking (%);2017;4.41951;%;121049;467549
+PTN_BEDKG__;Plantenbedekking (%);2018;8.85326;%;121123;477374
+PTN_BEDKG__;Plantenbedekking (%);2019;5.97577;%;124020;468258
+PTN_BEDKG__;Plantenbedekking (%);2020;9.73382;%;119342;471037
+PTN_BEDKG__;Plantenbedekking (%);2021;7.49638;%;120278;480751
+PTN_BEDKG__;Plantenbedekking (%);2022;4.57774;%;121741;471448
+PTN_BEDKG__;Plantenbedekking (%);2023;12.9133;%;118635;473175
+PTN_BEDKG__;Plantenbedekking (%);2024;15.25;%;123752;473686
+PTN_BEDKG_NatS;Plantenopname met Natschaal;2006;3.33333;DIMSLS;124258;473872
+PTN_BEDKG_NatS;Plantenopname met Natschaal;2007;3.6;DIMSLS;123887;474542
+PTN_BEDKG_NatS;Plantenopname met Natschaal;2008;2.83333;DIMSLS;123865;474400
+PTN_BEDKG_NatS;Plantenopname met Natschaal;2009;3.16667;DIMSLS;123865;474400
+PTN_BEDKG_NatS;Plantenopname met Natschaal;2010;2.42857;DIMSLS;123849;474298
+PTN_BEDKG_NatS;Plantenopname met Natschaal;2011;5;DIMSLS;123977;475113
+PTN_BEDKG_NatS;Plantenopname met Natschaal;2012;5;DIMSLS;123752;473686
+PTN_BEDKG_TansleyS;Plantenopname met Tansleyschaal;2003;3.5814;DIMSLS;117529;474938
+PTN_BEDKG_TansleyS;Plantenopname met Tansleyschaal;2005;4.5;DIMSLS;125569;480263
+PTN_BEDKG_TansleyS;Plantenopname met Tansleyschaal;2006;3.17391;DIMSLS;121686;471945
+PTN_BEDKG_TansleyS;Plantenopname met Tansleyschaal;2007;3.5045;DIMSLS;123991;470890
+PTN_BREEDTE_m;Breedteplanten (m);2014;1.00833;m;118518;472794
+PTN_BREEDTE_m;Breedteplanten (m);2015;1.35714;m;119446;480384
+PTN_BREEDTE_m;Breedteplanten (m);2016;0.921429;m;122235;470826
+PTN_BREEDTE_m;Breedteplanten (m);2017;0.85;m;119681;466061
+PTN_BREEDTE_m;Breedteplanten (m);2018;0.65;m;118761;479492
+PTN_BREEDTE_m;Breedteplanten (m);2019;0.464286;m;123894;468481
+PTN_BREEDTE_m;Breedteplanten (m);2020;0.56;m;118661;471287
+PTN_BREEDTE_m;Breedteplanten (m);2021;1.36;m;119133;481081
+PTN_BREEDTE_m;Breedteplanten (m);2022;0.804545;m;121455;471960
+PTN_BREEDTE_m;Breedteplanten (m);2023;1.54286;m;117759;471692
+SLIBDTE_m;Slibdikte (m);2010;0.3;m;123302;472649
+SLIBDTE_m;Slibdikte (m);2011;0.19375;m;117895;474035
+SLIBDTE_m;Slibdikte (m);2012;0.27;m;125754;477707
+SLIBDTE_m;Slibdikte (m);2014;0.15;m;118518;472794
+SLIBDTE_m;Slibdikte (m);2015;0.12;m;118972;479618
+SLIBDTE_m;Slibdikte (m);2016;0.29;m;123152;470952
+SLIBDTE_m;Slibdikte (m);2017;0;m;119681;466061
+SLIBDTE_m;Slibdikte (m);2018;0.12875;m;119384;478766
+SLIBDTE_m;Slibdikte (m);2019;0.172727;m;124000;469259
+SLIBDTE_m;Slibdikte (m);2020;0.0722222;m;118578;472045
+SLIBDTE_m;Slibdikte (m);2021;0.024;m;119133;481081
+SLIBDTE_m;Slibdikte (m);2022;0.0946154;m;122209;471873
+SLIBDTE_m;Slibdikte (m);2023;3.88286;m;118121;473132
+SLIBDTE_m;Slibdikte (m);2024;0.1;m;123752;473686
+SLIBDTE_m_LINKSMDPTJT;Slibdikte links t.o.v. middelpunt vegetatieopname;2018;0.104286;m;118761;479492
+SLIBDTE_m_LINKSMDPTJT;Slibdikte links t.o.v. middelpunt vegetatieopname;2019;0.185714;m;123894;468481
+SLIBDTE_m_LINKSMDPTJT;Slibdikte links t.o.v. middelpunt vegetatieopname;2020;0.0888889;m;118578;472045
+SLIBDTE_m_LINKSMDPTJT;Slibdikte links t.o.v. middelpunt vegetatieopname;2021;0.052;m;119133;481081
+SLIBDTE_m_LINKSMDPTJT;Slibdikte links t.o.v. middelpunt vegetatieopname;2022;0.0918182;m;121455;471960
+SLIBDTE_m_LINKSMDPTJT;Slibdikte links t.o.v. middelpunt vegetatieopname;2023;1.02667;m;117484;472896
+SLIBDTE_m_RECHTSMDPTJT;Slibdikte rechts t.o.v. middelpunt vegetatieopname;2018;-142.674;m;118761;479492
+SLIBDTE_m_RECHTSMDPTJT;Slibdikte rechts t.o.v. middelpunt vegetatieopname;2019;0.157143;m;123894;468481
+SLIBDTE_m_RECHTSMDPTJT;Slibdikte rechts t.o.v. middelpunt vegetatieopname;2020;0.0833333;m;118578;472045
+SLIBDTE_m_RECHTSMDPTJT;Slibdikte rechts t.o.v. middelpunt vegetatieopname;2021;0.042;m;119133;481081
+SLIBDTE_m_RECHTSMDPTJT;Slibdikte rechts t.o.v. middelpunt vegetatieopname;2022;0.0918182;m;121455;471960
+SLIBDTE_m_RECHTSMDPTJT;Slibdikte rechts t.o.v. middelpunt vegetatieopname;2023;7.37667;m;117484;472896
+TALBVWTR_graad;Talud bovenwater (graad);2012;28.125;graad;127013;476532
+TALBVWTR_graad;Talud bovenwater (graad);2014;42.5;graad;118518;472794
+TALBVWTR_graad;Talud bovenwater (graad);2015;51.2857;graad;119446;480384
+TALBVWTR_graad;Talud bovenwater (graad);2016;32.1429;graad;122235;470826
+TALBVWTR_graad;Talud bovenwater (graad);2017;65;graad;119681;466061
+TALBVWTR_graad;Talud bovenwater (graad);2018;44.375;graad;119384;478766
+TALBVWTR_graad;Talud bovenwater (graad);2019;46.25;graad;123659;468652
+TALBVWTR_graad;Talud bovenwater (graad);2020;52.2222;graad;118578;472045
+TALBVWTR_graad;Talud bovenwater (graad);2021;22;graad;119133;481081
+TALBVWTR_graad;Talud bovenwater (graad);2022;36.8182;graad;121455;471960
+TALBVWTR_graad;Talud bovenwater (graad);2023;60;graad;118121;473132
+TALBVWTR_graad;Talud bovenwater (graad);2024;30;graad;123752;473686
+VSLC_g;Vissen per lengteklasse in cm (g);2006;153.084;g;126179;467603
+VSLC_g;Vissen per lengteklasse in cm (g);2012;397.896;g;122527;470989
+VSLC_g;Vissen per lengteklasse in cm (g);2013;29.14;g;126359;471392
+VSLC_g;Vissen per lengteklasse in cm (g);2016;1.53333;g;126359;471392
+VSLC_g;Vissen per lengteklasse in cm (g);2018;126.642;g;123752;473686
+VSLC_g;Vissen per lengteklasse in cm (g);2019;536.353;g;123625;470423
+VSLC_g;Vissen per lengteklasse in cm (g);2022;87.6159;g;126359;471392
+VSLC_g;Vissen per lengteklasse in cm (g);2023;4.3215;g;121943;474551
+VSLC_g;Vissen per lengteklasse in cm (g);2024;180.803;g;123752;473686
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2006;0.713717;kg/ha;126179;467603
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2012;9.64798;kg/ha;122527;470989
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2013;0.0364;kg/ha;126359;471392
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2016;0.0045;kg/ha;126359;471392
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2018;5.62862;kg/ha;123752;473686
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2019;3.93907;kg/ha;123625;470423
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2022;0.102459;kg/ha;126359;471392
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2023;0.062;kg/ha;121943;474551
+VSLC_kg_ha;Vissen per lengteklasse in cm (kg/ha);2024;7.9699;kg/ha;123752;473686
+VSLC_n;Vissen per lengteklasse in cm (n);2006;3.3844;n;126159;467653
+VSLC_n;Vissen per lengteklasse in cm (n);2012;3.47135;n;122527;470989
+VSLC_n;Vissen per lengteklasse in cm (n);2013;3.5389;n;126359;471392
+VSLC_n;Vissen per lengteklasse in cm (n);2016;5.81942;n;126359;471392
+VSLC_n;Vissen per lengteklasse in cm (n);2018;4.38462;n;123752;473686
+VSLC_n;Vissen per lengteklasse in cm (n);2019;3.02079;n;123625;470423
+VSLC_n;Vissen per lengteklasse in cm (n);2022;4.67304;n;126359;471392
+VSLC_n;Vissen per lengteklasse in cm (n);2023;4;n;121943;474551
+VSLC_n;Vissen per lengteklasse in cm (n);2024;9.7701;n;123752;473686
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2006;22.7141;n/ha;126179;467603
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2012;75.1389;n/ha;122527;470989
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2013;4.93053;n/ha;126359;471392
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2016;18.7962;n/ha;126359;471392
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2018;194.872;n/ha;123752;473686
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2019;12.093;n/ha;123625;470423
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2022;6.07732;n/ha;126359;471392
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2023;57.143;n/ha;121943;474551
+VSLC_n_ha;Vissen per lengteklasse in cm (n/ha);2024;433.716;n/ha;123752;473686
+WATDTE_m;Waterdiepte (m);2003;0.366667;m;116713;474700
+WATDTE_m;Waterdiepte (m);2005;0.28;m;126361;480317
+WATDTE_m;Waterdiepte (m);2006;1.8;m;124763;474059
+WATDTE_m;Waterdiepte (m);2007;0.9;m;123938;472783
+WATDTE_m;Waterdiepte (m);2008;1.4;m;124090;475826
+WATDTE_m;Waterdiepte (m);2009;0.588889;m;123658;473783
+WATDTE_m;Waterdiepte (m);2010;0.513636;m;123445;473227
+WATDTE_m;Waterdiepte (m);2011;0.45;m;119134;474394
+WATDTE_m;Waterdiepte (m);2012;0.683333;m;125420;477037
+WATDTE_m;Waterdiepte (m);2014;0.725;m;119911;473552
+WATDTE_m;Waterdiepte (m);2015;0.578;m;120247;479252
+WATDTE_m;Waterdiepte (m);2016;2.405;m;123279;471653
+WATDTE_m;Waterdiepte (m);2017;0.6;m;120868;469037
+WATDTE_m;Waterdiepte (m);2018;0.77;m;120577;478571
+WATDTE_m;Waterdiepte (m);2019;2.17917;m;124036;469985
+WATDTE_m;Waterdiepte (m);2020;0.57;m;119163;472637
+WATDTE_m;Waterdiepte (m);2021;0.758571;m;120908;480140
+WATDTE_m;Waterdiepte (m);2022;2.32143;m;122368;472308
+WATDTE_m;Waterdiepte (m);2023;1.31625;m;118910;473737
+WATDTE_m;Waterdiepte (m);2024;0.6;m;123752;473686
+WATERBTE_m;Waterbreedte (m);2007;4;m;123836;470755
+WATERBTE_m;Waterbreedte (m);2009;1.85714;m;123535;473199
+WATERBTE_m;Waterbreedte (m);2010;5.55556;m;123302;472649
+WATERBTE_m;Waterbreedte (m);2011;2.5;m;117895;474035
+WATERBTE_m;Waterbreedte (m);2012;6.41;m;125754;477707
+WATERBTE_m;Waterbreedte (m);2014;17.4167;m;118518;472794
+WATERBTE_m;Waterbreedte (m);2015;4.97143;m;119446;480384
+WATERBTE_m;Waterbreedte (m);2016;4.57143;m;122235;470826
+WATERBTE_m;Waterbreedte (m);2017;7.83333;m;119681;466061
+WATERBTE_m;Waterbreedte (m);2018;6.64286;m;118761;479492
+WATERBTE_m;Waterbreedte (m);2019;7.23333;m;123476;468785
+WATERBTE_m;Waterbreedte (m);2020;7.27778;m;118578;472045
+WATERBTE_m;Waterbreedte (m);2021;9.2;m;119133;481081
+WATERBTE_m;Waterbreedte (m);2022;5.53636;m;121455;471960
+WATERBTE_m;Waterbreedte (m);2023;15.4714;m;118121;473132
+X_CODNT_m;X_coordinaat (m);2006;124332;m;124405;470309
+X_CODNT_m;X_coordinaat (m);2012;122608;m;122591;471129
+X_CODNT_m;X_coordinaat (m);2013;126331;m;126359;471392
+X_CODNT_m;X_coordinaat (m);2016;126374;m;126359;471392
+X_CODNT_m;X_coordinaat (m);2018;123794;m;123752;473686
+X_CODNT_m;X_coordinaat (m);2019;124150;m;124184;470621
+X_CODNT_m;X_coordinaat (m);2022;126288;m;126359;471392
+X_CODNT_m;X_coordinaat (m);2023;121948;m;121943;474551
+X_CODNT_m;X_coordinaat (m);2024;123794;m;123752;473686
+Y_CODNT_m;Y_coordinaat (m);2006;470253;m;124405;470309
+Y_CODNT_m;Y_coordinaat (m);2012;471085;m;122591;471129
+Y_CODNT_m;Y_coordinaat (m);2013;471351;m;126359;471392
+Y_CODNT_m;Y_coordinaat (m);2016;471235;m;126359;471392
+Y_CODNT_m;Y_coordinaat (m);2018;473768;m;123752;473686
+Y_CODNT_m;Y_coordinaat (m);2019;470491;m;124184;470621
+Y_CODNT_m;Y_coordinaat (m);2022;471289;m;126359;471392
+Y_CODNT_m;Y_coordinaat (m);2023;474548;m;121943;474551
+Y_CODNT_m;Y_coordinaat (m);2024;473755;m;123752;473686
+ZICHT_m;Doorzicht (m);2003;0.366667;m;116713;474700
+ZICHT_m;Doorzicht (m);2005;0.38;m;126361;480317
+ZICHT_m;Doorzicht (m);2006;1.1;m;124763;474059
+ZICHT_m;Doorzicht (m);2007;0.66;m;123938;472783
+ZICHT_m;Doorzicht (m);2008;1.25;m;124090;475826
+ZICHT_m;Doorzicht (m);2009;0.466667;m;123658;473783
+ZICHT_m;Doorzicht (m);2010;0.4;m;123445;473227
+ZICHT_m;Doorzicht (m);2011;0.33;m;119134;474394
+ZICHT_m;Doorzicht (m);2012;0.35;m;125420;477037
+ZICHT_m;Doorzicht (m);2014;0.5;m;119911;473552
+ZICHT_m;Doorzicht (m);2015;0.421;m;120247;479252
+ZICHT_m;Doorzicht (m);2016;2.305;m;123279;471653
+ZICHT_m;Doorzicht (m);2017;0.2875;m;120868;469037
+ZICHT_m;Doorzicht (m);2018;0.505;m;120577;478571
+ZICHT_m;Doorzicht (m);2019;0.95;m;124036;469985
+ZICHT_m;Doorzicht (m);2020;0.39;m;119163;472637
+ZICHT_m;Doorzicht (m);2021;0.587143;m;120908;480140
+ZICHT_m;Doorzicht (m);2022;0.725;m;122368;472308
+ZICHT_m;Doorzicht (m);2023;1.05375;m;118910;473737
+ZICHT_m;Doorzicht (m);2024;0.3;m;123752;473686
