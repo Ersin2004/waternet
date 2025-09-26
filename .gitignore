@@ -1,6 +1,5 @@
 *.xlsx
 *.xls
-*.csv
 
 # Gegenereerde data bestanden
 Normen_stoffen_zoetwater_cleaned.*
