@@ -4,9 +4,10 @@ import CorrelationHeatmap from './CorrelationHeatmap'
 import { useState } from 'react'
 import RisksViewer from './RisksViewer'
 import ChemicalsViewer from './ChemicalsViewer'
+import StreamlitFrame from './StreamlitFrame'
 
 function App() {
-  const [view, setView] = useState<'forecast' | 'heatmap' | 'risks' | 'chemicals'>('forecast')
+  const [view, setView] = useState<'forecast' | 'heatmap' | 'risks' | 'chemicals' | 'map'>('forecast')
 
   return (
     <div className="min-h-screen flex flex-col items-center p-6 gap-6 bg-gray-50">
@@ -17,12 +18,13 @@ function App() {
         <select
           className="w-full border rounded-md px-3 py-2"
           value={view}
-          onChange={(e) => setView(e.target.value as 'forecast' | 'heatmap')}
+          onChange={(e) => setView(e.target.value as any)}
         >
           <option value="forecast">Forecast</option>
           <option value="heatmap">Heatmap</option>
           <option value="risks">Risks</option>
           <option value="chemicals">Chemicals</option>
+          <option value="map">Map</option>
         </select>
       </div>
 
@@ -30,6 +32,7 @@ function App() {
       {view === 'heatmap' && <CorrelationHeatmap />}
       {view === 'risks' && <RisksViewer />}
       {view === 'chemicals' && <ChemicalsViewer />}
+      {view === 'map' && <StreamlitFrame />}
     </div>
   )
 }
