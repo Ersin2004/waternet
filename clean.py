@@ -4,6 +4,8 @@ from typing import List
 
 import numpy as np
 import pandas as pd
+import csv
+import os
 
 
 def read_semicolon_csv(csv_path: Path) -> pd.DataFrame:
@@ -192,6 +194,148 @@ def main() -> None:
             print(f"  · {k}: {v}")
 
     # Filtering against external reference disabled by request
+
+    # -------- Also create per-parameter CSVs (combined logic) --------
+    # This mirrors the behavior of data/clean.py (splitter) on the raw semicolon FEWS file
+    try:
+        output_dir = root / "data/out/bio"
+        output_dir.mkdir(parents=True, exist_ok=True)
+
+        # First pass: count per fewsparameter (only 2000s dates)
+        def in_2000s(date_str: str) -> bool:
+            return len(date_str) >= 4 and date_str[:2] == "20"
+
+        counts: dict[str, int] = {}
+        with open(src, "r", encoding="utf-8-sig", newline="") as f_in:
+            reader = csv.reader(f_in, delimiter=';')
+            try:
+                header = next(reader)
+            except StopIteration:
+                header = []
+            norm = [h.strip().lower() for h in header]
+            idx = {col: i for i, col in enumerate(norm)}
+            i_param = idx.get("fewsparameter")
+            i_date = idx.get("datum")
+            if i_param is not None and i_date is not None:
+                for row in reader:
+                    if not row or i_param >= len(row) or i_date >= len(row):
+                        continue
+                    if not in_2000s(row[i_date]):
+                        continue
+                    param_val = row[i_param]
+                    counts[param_val] = counts.get(param_val, 0) + 1
+
+        min_count = 50  # default threshold; adjust if needed
+        allowed = {p for p, c in counts.items() if c >= min_count}
+
+        # Second pass: write per-parameter files (and others_below_threshold)
+        OUTPUT_COLUMNS = [
+            "monsterident",
+            "datum",
+            "fewsparametercategorie",
+            "fewsparameternaam",
+            "meetwaarde",
+            "eenheid",
+            "x_location",
+            "y_location",
+        ]
+
+        def must_get(local_idx: dict[str, int], col: str) -> int:
+            key = col.lower()
+            if key not in local_idx:
+                raise KeyError(f"Missing required column in header: {col}")
+            return local_idx[key]
+
+        def sanitize_filename(name: str) -> str:
+            safe = "".join(ch if ch.isalnum() or ch in ("_", "-") else "_" for ch in (name or "empty"))
+            if safe in {".", ".."}:
+                safe = "__"
+            return safe[:120]
+
+        writers: dict[str, csv.writer] = {}
+        files: dict[str, any] = {}
+        others_path = output_dir / "others_below_threshold.csv"
+        others_file = open(others_path, "w", encoding="utf-8", newline="")
+        others_writer = csv.writer(others_file, delimiter=';')
+        others_writer.writerow(OUTPUT_COLUMNS)
+
+        try:
+            with open(src, "r", encoding="utf-8-sig", newline="") as f_in2:
+                reader2 = csv.reader(f_in2, delimiter=';')
+                header2 = next(reader2)
+                norm2 = [h.strip().lower() for h in header2]
+                idx2 = {col: i for i, col in enumerate(norm2)}
+                # map FEWS location to requested output x/y names
+                idx_map = {
+                    "monsterident": must_get(idx2, "monsterident"),
+                    "datum": must_get(idx2, "datum"),
+                    "fewsparameter": must_get(idx2, "fewsparameter"),
+                    "fewsparametercategorie": must_get(idx2, "fewsparametercategorie"),
+                    "fewsparameternaam": must_get(idx2, "fewsparameternaam"),
+                    "meetwaarde": must_get(idx2, "meetwaarde"),
+                    "eenheid": must_get(idx2, "eenheid"),
+                    # FEWS uses either "locatie x"/"locatie y" or similar; try both fallbacks
+                }
+                i_x = idx2.get("locatie x") if idx2.get("locatie x") is not None else idx2.get("xcoormonster")
+                i_y = idx2.get("locatie y") if idx2.get("locatie y") is not None else idx2.get("ycoormonster")
+                if i_x is None or i_y is None:
+                    # if still missing, default to empty values later
+                    i_x = -1
+                    i_y = -1
+
+                def ensure_writer(param_value: str) -> csv.writer:
+                    if param_value in writers:
+                        return writers[param_value]
+                    fname = sanitize_filename(param_value) + ".csv"
+                    fh = open(output_dir / fname, "w", encoding="utf-8", newline="")
+                    w = csv.writer(fh, delimiter=';')
+                    w.writerow(OUTPUT_COLUMNS)
+                    writers[param_value] = w
+                    files[param_value] = fh
+                    return w
+
+                for row in reader2:
+                    if not row:
+                        continue
+                    try:
+                        dval = row[idx_map["datum"]]
+                    except Exception:
+                        continue
+                    if not in_2000s(dval):
+                        continue
+                    if any(idx_map[k] >= len(row) for k in [
+                        "monsterident","datum","fewsparameter","fewsparametercategorie","fewsparameternaam","meetwaarde","eenheid"
+                    ]):
+                        continue
+                    param_val = row[idx_map["fewsparameter"]]
+                    out_row = [
+                        row[idx_map["monsterident"]],
+                        dval,
+                        row[idx_map["fewsparametercategorie"]],
+                        row[idx_map["fewsparameternaam"]],
+                        row[idx_map["meetwaarde"]],
+                        row[idx_map["eenheid"]],
+                        (row[i_x] if 0 <= i_x < len(row) else ""),
+                        (row[i_y] if 0 <= i_y < len(row) else ""),
+                    ]
+                    if param_val in allowed:
+                        w = ensure_writer(param_val)
+                        w.writerow(out_row)
+                    else:
+                        others_writer.writerow(out_row)
+        finally:
+            for fh in files.values():
+                try:
+                    fh.close()
+                except Exception:
+                    pass
+            try:
+                others_file.close()
+            except Exception:
+                pass
+        print(f"- Parameter splits: wrote to {output_dir} (threshold: {min_count})")
+    except Exception as e:
+        print(f"- Parameter splits skipped due to error: {e}")
 
 
 if __name__ == "__main__":
