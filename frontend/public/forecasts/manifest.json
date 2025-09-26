@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "Ca_mg_l_nf",
+      "param_name": "Calcium na filtratie (mg/l)"
+    },
+    {
+      "id": "Cl_mg_l",
+      "param_name": "Chloride (mg/l)"
+    },
+    {
+      "id": "GELDHD_mS_m_25oC",
+      "param_name": "Geleidendheid of EGV bij referentietemperatuur 25oC"
+    },
+    {
+      "id": "MGETAL_mgHCO3_l_nf",
+      "param_name": "M-getal na filtratie (uitgedrukt in mg bicarbonaat/l)"
+    },
+    {
+      "id": "O2__",
+      "param_name": "Zuurstofverzadigingspercentage"
+    },
+    {
+      "id": "O2_mg_l",
+      "param_name": "Zuurstof (mg/l)"
+    },
+    {
+      "id": "SO4_mg_l_nf",
+      "param_name": "Sulfaat na filtratie (mg/l)"
+    },
+    {
+      "id": "T_oC",
+      "param_name": "Temperatuur (oC)"
+    },
+    {
+      "id": "ZICHT_m",
+      "param_name": "Doorzicht (m)"
+    },
+    {
+      "id": "pH",
+      "param_name": "Zuurgraad"
+    },
+    {
+      "id": "sNO3NO2_mgN_l_nf",
+      "param_name": "Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l)"
+    }
+  ]
+}
