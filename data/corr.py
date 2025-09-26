@@ -323,3 +323,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# # Using a directory of per-parameter files
+# python corr.py --input-dir /Users/Skye/Downloads/waternet/data/out/chem --out-dir /Users/Skye/Downloads/waternet/data/resultscorr
