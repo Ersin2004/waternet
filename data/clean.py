@@ -23,6 +23,8 @@ OUTPUT_COLUMNS = [
     "fewsparameternaam",
     "meetwaarde",
     "eenheid",
+    "x_location",
+    "y_location",
 ]
 
 def sanitize_filename(name: str) -> str:
@@ -119,7 +121,7 @@ def main():
             # Resolve required indices (case-insensitive)
             col_indices = {
                 col: must_get(idx, col) for col in
-                ["monsterident", "datum", "fewsparameter", "fewsparametercategorie", "fewsparameternaam", "meetwaarde", "eenheid"]
+                ["monsterident", "datum", "fewsparameter", "fewsparametercategorie", "fewsparameternaam", "meetwaarde", "eenheid", "locatie x", "locatie y"]
             }
 
             def ensure_param_writer(param_value: str):
@@ -155,6 +157,9 @@ def main():
                     row[col_indices["fewsparameternaam"]],
                     row[col_indices["meetwaarde"]],
                     row[col_indices["eenheid"]],
+                    row[col_indices["locatie x"]],
+                    row[col_indices["locatie y"]],
+
                 ]
 
                 if param_val in allowed:
