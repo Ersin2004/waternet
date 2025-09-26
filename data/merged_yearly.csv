@@ -1,0 +1,593 @@
+id;param_name;year;value;eenheid;x_avg;y_avg
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2000;44.56184210526315;ug/l;119743.92105263157;471416.25
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2001;27.64074074074074;ug/l;123014.77777777778;475152.64814814815
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2002;40.78421052631579;ug/l;121474.21052631579;474443.2105263158
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2003;29.285714285714285;ug/l;122789.17142857143;475305.5142857143
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2004;27.954285714285714;ug/l;121293.97142857143;476243.0857142857
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2005;63.18571428571428;ug/l;119928.22448979592;478711.7755102041
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2006;38.17948717948718;ug/l;116817.53846153847;480223.76923076925
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2007;29.677419354838708;ug/l;122263.74193548386;475734.6451612903
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2008;17.546666666666667;ug/l;122978.58666666667;476843.4266666667
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2009;29.70149253731343;ug/l;122718.14925373135;479966.49253731343
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2010;34.0650406504065;ug/l;119815.17073170732;480456.0081300813
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2011;18.446601941747574;ug/l;121607.40776699029;482916.0291262136
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2012;18.21978021978022;ug/l;121874.89010989011;484049.43956043955
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2013;21.106060606060606;ug/l;121523.78787878787;482391.7121212121
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2014;20.582089552238806;ug/l;122346.19402985074;479817.53731343284
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2015;24.460526315789473;ug/l;123060.28947368421;481157.9868421053
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2016;24.185714285714287;ug/l;122512.21428571429;481305.17142857146
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2017;20.560606060606062;ug/l;122745.65151515152;479629.95454545453
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2018;19.319444444444443;ug/l;123648.15277777778;478452.9861111111
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2019;17.68;ug/l;123576.05;478696.48
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2020;25.487179487179485;ug/l;122556.00854700855;477312.5811965812
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2021;22.017543859649123;ug/l;122732.54385964913;477315.3859649123
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2022;23.839918699186992;ug/l;122426.55284552845;477431.2926829268
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2023;26.315315315315317;ug/l;122301.43243243243;476040.5675675676
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2024;32.95876288659794;ug/l;122703.92783505155;475645.1649484536
+CHLFa_ug_l_spectro;Chlorofyl-a (ug/l)) met analyseprotocol Chlorofyl en faeofytine;2025;24.529411764705884;ug/l;123851.26470588235;476935.8823529412
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2010;85.25581395348837;mg/l;123754.97674418605;476985.0930232558
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2011;89.7457627118644;mg/l;123089.74576271187;475111.57627118647
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2012;88.06521739130434;mg/l;123878.84782608696;477804.02173913043
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2013;84.21621621621621;mg/l;122341.94594594595;476294.97297297296
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2014;88.98076923076923;mg/l;122961.25;476351.67307692306
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2015;94.33333333333333;mg/l;123427.43137254902;480026.29411764705
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2016;88.13636363636364;mg/l;123178.0;480373.6818181818
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2017;85.48571428571428;mg/l;123928.0;475547.0
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2018;85.33928571428571;mg/l;123805.58928571429;475934.3035714286
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2019;91.41758241758242;mg/l;124159.75824175825;476985.52747252746
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2020;98.47619047619048;mg/l;123222.1619047619;475716.22857142857
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2021;101.19626168224299;mg/l;123165.21495327103;475914.9813084112
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2022;95.91696666666667;mg/l;122833.7;475996.3
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2023;101.82407407407408;mg/l;122383.44444444444;475567.77777777775
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2024;94.30927835051547;mg/l;122703.92783505155;475645.1649484536
+Ca_mg_l_nf;Calcium na filtratie (mg/l);2025;92.47222222222223;mg/l;123838.97222222222;477183.8333333333
+Cl_mg_l;Chloride (mg/l);2000;292.3197916666667;mg/l;120640.83333333333;472405.8854166667
+Cl_mg_l;Chloride (mg/l);2001;289.7464788732394;mg/l;123145.3661971831;475857.6901408451
+Cl_mg_l;Chloride (mg/l);2002;217.0581395348837;mg/l;121858.81395348837;472704.06976744183
+Cl_mg_l;Chloride (mg/l);2003;336.8228571428571;mg/l;124196.25714285714;473402.02857142856
+Cl_mg_l;Chloride (mg/l);2004;249.37307692307692;mg/l;119717.76923076923;474499.5
+Cl_mg_l;Chloride (mg/l);2005;270.71304347826083;mg/l;120485.34782608696;478295.52173913043
+Cl_mg_l;Chloride (mg/l);2006;177.6818181818182;mg/l;116608.09090909091;476199.63636363635
+Cl_mg_l;Chloride (mg/l);2007;186.30645161290323;mg/l;123486.7741935484;477883.32258064515
+Cl_mg_l;Chloride (mg/l);2008;175.94666666666666;mg/l;122978.58666666667;476843.4266666667
+Cl_mg_l;Chloride (mg/l);2009;297.07272727272726;mg/l;122573.09090909091;480500.8181818182
+Cl_mg_l;Chloride (mg/l);2010;339.2704918032787;mg/l;119776.97540983607;481001.01639344264
+Cl_mg_l;Chloride (mg/l);2011;384.3893129770992;mg/l;121480.69465648854;481411.19847328245
+Cl_mg_l;Chloride (mg/l);2012;348.08849557522126;mg/l;121730.25663716815;482806.4424778761
+Cl_mg_l;Chloride (mg/l);2013;250.046875;mg/l;122050.984375;479316.953125
+Cl_mg_l;Chloride (mg/l);2014;285.7951807228916;mg/l;122548.6626506024;478687.7469879518
+Cl_mg_l;Chloride (mg/l);2015;291.5679012345679;mg/l;122876.5925925926;480852.7901234568
+Cl_mg_l;Chloride (mg/l);2016;286.2435897435897;mg/l;122788.16666666667;480873.9487179487
+Cl_mg_l;Chloride (mg/l);2017;305.8333333333333;mg/l;123183.56944444444;478407.5416666667
+Cl_mg_l;Chloride (mg/l);2018;307.969696969697;mg/l;123130.34848484848;478529.25757575757
+Cl_mg_l;Chloride (mg/l);2019;304.98039215686276;mg/l;123640.95098039215;478719.1568627451
+Cl_mg_l;Chloride (mg/l);2020;279.7739130434783;mg/l;122885.3652173913;477224.4695652174
+Cl_mg_l;Chloride (mg/l);2021;278.12820512820514;mg/l;122839.04273504273;477380.452991453
+Cl_mg_l;Chloride (mg/l);2022;272.11625000000004;mg/l;122516.90909090909;477547.63636363635
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2000;9.768970588235293;/m;120279.2205882353;469628.10294117645
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2001;11.772162162162163;/m;123004.2972972973;470169.1081081081
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2002;10.11125;/m;122729.45833333333;470536.25
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2003;6.178571428571429;/m;124196.25714285714;473402.02857142856
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2004;7.662307692307692;/m;119717.76923076923;474499.5
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2005;8.340416666666666;/m;125467.0;475405.5
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2006;11.559999999999999;/m;122775.0;481514.0
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2007;5.858;/m;124879.92;480214.76
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2008;4.687931034482758;/m;125646.05172413793;478676.724137931
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2009;4.252727272727273;/m;122573.09090909091;480500.8181818182
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2010;5.436;/m;121879.69333333333;483469.3466666667
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2011;5.235164835164835;/m;121774.31868131868;481423.46153846156
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2012;7.515217391304348;/m;123878.84782608696;477804.02173913043
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2013;6.467567567567568;/m;122341.94594594595;476294.97297297296
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2014;7.5903846153846155;/m;122961.25;476351.67307692306
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2015;8.0;/m;123427.43137254902;480026.29411764705
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2016;7.175;/m;123178.0;480373.6818181818
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2017;6.711428571428572;/m;123928.0;475547.0
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2018;6.001785714285715;/m;123805.58928571429;475934.3035714286
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2019;5.462637362637363;/m;124159.75824175825;476985.52747252746
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2020;5.434782608695652;/m;122885.3652173913;477224.4695652174
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2021;5.776068376068376;/m;122839.04273504273;477380.452991453
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2022;5.118106060606061;/m;122516.90909090909;477547.63636363635
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2023;7.494594594594594;/m;122301.43243243243;476040.5675675676
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2024;8.623711340206185;/m;122703.92783505155;475645.1649484536
+E__m_L380nm;Extinctie bij 380 nm, maat voor humuszuren (/m);2025;8.091666666666667;/m;123838.97222222222;477183.8333333333
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2000;3.0157142857142856;/m;120219.92857142857;469648.15714285715
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2001;3.836756756756757;/m;123004.2972972973;470169.1081081081
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2002;3.4419354838709677;/m;124085.32258064517;471244.5483870968
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2003;2.01;/m;124196.25714285714;473402.02857142856
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2004;2.3196153846153846;/m;119717.76923076923;474499.5
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2005;2.6445833333333333;/m;125467.0;475405.5
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2006;3.66;/m;122775.0;481514.0
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2007;1.8659999999999999;/m;124879.92;480214.76
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2008;1.4775862068965517;/m;125646.05172413793;478676.724137931
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2009;1.3836363636363636;/m;122573.09090909091;480500.8181818182
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2010;1.850666666666667;/m;121879.69333333333;483469.3466666667
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2011;1.7065934065934067;/m;121774.31868131868;481423.46153846156
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2012;2.5478260869565217;/m;123878.84782608696;477804.02173913043
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2013;2.1297297297297297;/m;122341.94594594595;476294.97297297296
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2014;2.45;/m;122961.25;476351.67307692306
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2015;2.6254901960784314;/m;123427.43137254902;480026.29411764705
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2016;2.4295454545454547;/m;123178.0;480373.6818181818
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2017;2.2314285714285713;/m;123928.0;475547.0
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2018;1.9482142857142857;/m;123805.58928571429;475934.3035714286
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2019;1.645054945054945;/m;124159.75824175825;476985.52747252746
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2020;1.748695652173913;/m;122885.3652173913;477224.4695652174
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2021;1.899145299145299;/m;122839.04273504273;477380.452991453
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2022;1.711818181818182;/m;122516.90909090909;477547.63636363635
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2023;2.5855855855855854;/m;122301.43243243243;476040.5675675676
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2024;2.88659793814433;/m;122703.92783505155;475645.1649484536
+E__m_L440nm;Extinctie bij 440 nm, maat voor humuszuren (/m);2025;2.6444444444444444;/m;123838.97222222222;477183.8333333333
+FEOa_ug_l;Feofytine (ug/l);2000;18.403947368421054;ug/l;119743.92105263157;471416.25
+FEOa_ug_l;Feofytine (ug/l);2001;11.042592592592591;ug/l;123014.77777777778;475152.64814814815
+FEOa_ug_l;Feofytine (ug/l);2002;10.24736842105263;ug/l;121474.21052631579;474443.2105263158
+FEOa_ug_l;Feofytine (ug/l);2003;12.482857142857142;ug/l;122789.17142857143;475305.5142857143
+FEOa_ug_l;Feofytine (ug/l);2004;13.182857142857141;ug/l;121293.97142857143;476243.0857142857
+FEOa_ug_l;Feofytine (ug/l);2005;15.057142857142857;ug/l;119928.22448979592;478711.7755102041
+FEOa_ug_l;Feofytine (ug/l);2006;14.897435897435898;ug/l;116817.53846153847;480223.76923076925
+FEOa_ug_l;Feofytine (ug/l);2007;12.46774193548387;ug/l;122263.74193548386;475734.6451612903
+FEOa_ug_l;Feofytine (ug/l);2008;8.973333333333333;ug/l;122978.58666666667;476843.4266666667
+FEOa_ug_l;Feofytine (ug/l);2009;12.014925373134329;ug/l;122718.14925373135;479966.49253731343
+FEOa_ug_l;Feofytine (ug/l);2010;11.78048780487805;ug/l;119815.17073170732;480456.0081300813
+FEOa_ug_l;Feofytine (ug/l);2011;7.466019417475728;ug/l;121607.40776699029;482916.0291262136
+FEOa_ug_l;Feofytine (ug/l);2012;6.1098901098901095;ug/l;121874.89010989011;484049.43956043955
+FEOa_ug_l;Feofytine (ug/l);2013;8.924242424242424;ug/l;121523.78787878787;482391.7121212121
+FEOa_ug_l;Feofytine (ug/l);2014;10.328358208955224;ug/l;122346.19402985074;479817.53731343284
+FEOa_ug_l;Feofytine (ug/l);2015;9.526315789473685;ug/l;123060.28947368421;481157.9868421053
+FEOa_ug_l;Feofytine (ug/l);2016;10.342857142857143;ug/l;122512.21428571429;481305.17142857146
+FEOa_ug_l;Feofytine (ug/l);2017;8.06060606060606;ug/l;122745.65151515152;479629.95454545453
+FEOa_ug_l;Feofytine (ug/l);2018;20.47222222222222;ug/l;123648.15277777778;478452.9861111111
+FEOa_ug_l;Feofytine (ug/l);2019;9.64;ug/l;123576.05;478696.48
+FEOa_ug_l;Feofytine (ug/l);2020;8.461538461538462;ug/l;122556.00854700855;477312.5811965812
+FEOa_ug_l;Feofytine (ug/l);2021;9.543859649122806;ug/l;122732.54385964913;477315.3859649123
+FEOa_ug_l;Feofytine (ug/l);2022;9.325859375;ug/l;122380.375;477475.59375
+FEOa_ug_l;Feofytine (ug/l);2023;10.81081081081081;ug/l;122301.43243243243;476040.5675675676
+FEOa_ug_l;Feofytine (ug/l);2024;14.29896907216495;ug/l;122703.92783505155;475645.1649484536
+FEOa_ug_l;Feofytine (ug/l);2025;13.058823529411764;ug/l;123851.26470588235;476935.8823529412
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2000;160.0;mS/m;120640.83333333333;472405.8854166667
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2001;144.3943661971831;mS/m;123145.3661971831;475857.6901408451
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2002;113.53488372093024;mS/m;121858.81395348837;472704.06976744183
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2003;169.97804878048782;mS/m;123631.0487804878;473883.1951219512
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2004;182.76153846153846;mS/m;119717.76923076923;474499.5
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2005;139.73714285714286;mS/m;123544.2;480954.3714285714
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2006;158.3;mS/m;122775.0;481514.0
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2007;120.30645161290323;mS/m;123486.7741935484;477883.32258064515
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2008;110.28048780487805;mS/m;123494.23170731707;475675.0487804878
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2009;154.0;mS/m;122573.09090909091;480500.8181818182
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2010;177.84347826086957;mS/m;120821.23478260869;481992.05217391305
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2011;181.7709923664122;mS/m;121480.69465648854;481411.19847328245
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2012;172.5132743362832;mS/m;121730.25663716815;482806.4424778761
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2013;139.421875;mS/m;122050.984375;479316.953125
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2014;148.20481927710844;mS/m;122548.6626506024;478687.7469879518
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2015;148.09876543209876;mS/m;122876.5925925926;480852.7901234568
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2016;156.01282051282053;mS/m;122788.16666666667;480873.9487179487
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2017;147.33802816901408;mS/m;123218.57746478873;478260.4366197183
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2018;150.22727272727272;mS/m;123130.34848484848;478529.25757575757
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2019;153.62376237623764;mS/m;123683.44554455446;478577.1584158416
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2020;148.80165289256198;mS/m;122699.14876033057;477396.5619834711
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2021;149.82051282051282;mS/m;122839.04273504273;477380.452991453
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2022;146.59848484848484;mS/m;122516.90909090909;477547.63636363635
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2023;134.74774774774775;mS/m;122301.43243243243;476040.5675675676
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2024;126.22222222222223;mS/m;122577.50505050505;475879.0808080808
+GELDHD_mS_m_25oC;Geleidendheid of EGV bij referentietemperatuur 25oC;2025;136.6625;mS/m;123687.025;477621.65
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2008;530.0;mg/l;111469.0;471771.0
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2010;277.5409836065574;mg/l;120265.04918032787;475513.6393442623
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2011;245.25423728813558;mg/l;123089.74576271187;475111.57627118647
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2012;258.9130434782609;mg/l;123878.84782608696;477804.02173913043
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2013;264.05405405405406;mg/l;122341.94594594595;476294.97297297296
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2014;276.9230769230769;mg/l;122961.25;476351.67307692306
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2015;300.19607843137254;mg/l;123427.43137254902;480026.29411764705
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2016;294.3181818181818;mg/l;123178.0;480373.6818181818
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2017;238.57142857142858;mg/l;123928.0;475547.0
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2018;227.67857142857142;mg/l;123805.58928571429;475934.3035714286
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2019;235.27472527472528;mg/l;124159.75824175825;476985.52747252746
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2020;276.95238095238096;mg/l;123222.1619047619;475716.22857142857
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2021;289.25233644859816;mg/l;123165.21495327103;475914.9813084112
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2022;290.26425;mg/l;122833.7;475996.3
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2023;273.3333333333333;mg/l;122301.43243243243;476040.5675675676
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2024;265.87628865979383;mg/l;122703.92783505155;475645.1649484536
+MGETAL_mgHCO3_l_nf;M-getal na filtratie (uitgedrukt in mg bicarbonaat/l);2025;257.22222222222223;mg/l;123838.97222222222;477183.8333333333
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2001;0.005;mg/l;124013.5;469295.5
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2002;0.007526315789473685;mg/l;123097.97368421052;470283.05263157893
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2003;0.006411764705882353;mg/l;124079.70588235294;473522.76470588235
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2004;0.0054800000000000005;mg/l;119603.68;474345.04
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2005;0.002625;mg/l;123937.5;479819.375
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2006;0.006500000000000001;mg/l;122775.0;481514.0
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2007;0.016080645161290322;mg/l;122036.53225806452;475798.8870967742
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2008;0.007689655172413793;mg/l;125646.05172413793;478676.724137931
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2009;0.007545454545454545;mg/l;122573.09090909091;480500.8181818182
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2010;0.008232323232323233;mg/l;121334.81818181818;482542.0808080808
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2011;0.004911290322580645;mg/l;121705.59677419355;481245.3548387097
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2012;0.004558823529411765;mg/l;122220.10784313726;482796.67647058825
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2013;0.0072187499999999995;mg/l;122050.984375;479316.953125
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2014;0.005734939759036144;mg/l;122548.6626506024;478687.7469879518
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2015;0.005765432098765432;mg/l;122876.5925925926;480852.7901234568
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2016;0.0037307692307692306;mg/l;122788.16666666667;480873.9487179487
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2017;0.003492957746478873;mg/l;123218.57746478873;478260.4366197183
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2018;0.003787878787878788;mg/l;123130.34848484848;478529.25757575757
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2019;0.004931372549019608;mg/l;123640.95098039215;478719.1568627451
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2020;0.006191304347826086;mg/l;122885.3652173913;477224.4695652174
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2021;0.006273504273504273;mg/l;122839.04273504273;477380.452991453
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2022;0.007946969696969697;mg/l;122516.90909090909;477547.63636363635
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2023;0.007072072072072073;mg/l;122301.43243243243;476040.5675675676
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2024;0.00888659793814433;mg/l;122703.92783505155;475645.1649484536
+NH3_mgN_l_nf;Ammoniak na filtratie (uitgedrukt in mg stikstof/l);2025;0.010277777777777778;mg/l;123838.97222222222;477183.8333333333
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2000;0.6468988764044944;mg/l;120543.79775280898;471818.0449438202
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2001;0.8804477611940299;mg/l;123372.01492537314;474830.62686567166
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2002;0.6574222222222222;mg/l;121903.02222222222;472574.3777777778
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2003;0.664075;mg/l;122653.4;475736.5
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2004;2.0417105263157893;mg/l;119489.05263157895;475867.65789473685
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2005;0.61858;mg/l;119821.08;478903.16
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2006;0.8077272727272727;mg/l;119159.59090909091;481916.8181818182
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2007;1.0785135135135135;mg/l;123013.2972972973;476402.4864864865
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2008;0.5978787878787879;mg/l;124758.22727272728;477650.51515151514
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2009;0.25781818181818184;mg/l;122573.09090909091;480500.8181818182
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2010;0.3561616161616161;mg/l;121334.81818181818;482542.0808080808
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2011;0.4375;mg/l;121705.59677419355;481245.3548387097
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2012;0.41137254901960785;mg/l;122220.10784313726;482796.67647058825
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2013;0.40640625;mg/l;122050.984375;479316.953125
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2014;0.31698795180722894;mg/l;122548.6626506024;478687.7469879518
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2015;0.34382716049382717;mg/l;122876.5925925926;480852.7901234568
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2016;0.32358974358974363;mg/l;122788.16666666667;480873.9487179487
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2017;0.26309859154929577;mg/l;123218.57746478873;478260.4366197183
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2018;0.21666666666666667;mg/l;123130.34848484848;478529.25757575757
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2019;0.3023529411764706;mg/l;123640.95098039215;478719.1568627451
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2020;0.4037391304347826;mg/l;122885.3652173913;477224.4695652174
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2021;0.5394017094017094;mg/l;122839.04273504273;477380.452991453
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2022;0.5377272727272727;mg/l;122516.90909090909;477547.63636363635
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2023;0.5556756756756757;mg/l;122301.43243243243;476040.5675675676
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2024;0.5492929292929293;mg/l;122577.50505050505;475879.0808080808
+NH4_mgN_l_nf;Ammonium na filtratie (uitgedrukt in mg stikstof/l);2025;0.3408333333333333;mg/l;123838.97222222222;477183.8333333333
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2000;2.7787640449438205;mg/l;120543.79775280898;471818.0449438202
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2001;2.8758208955223883;mg/l;123372.01492537314;474830.62686567166
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2002;2.4363636363636365;mg/l;121827.63636363637;472538.1818181818
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2003;2.220487804878049;mg/l;122787.68292682926;475579.43902439025
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2004;4.042105263157895;mg/l;119489.05263157895;475867.65789473685
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2005;2.6852;mg/l;119821.08;478903.16
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2006;3.523529411764706;mg/l;116445.26470588235;478335.9411764706
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2007;2.883783783783784;mg/l;123013.2972972973;476402.4864864865
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2008;2.152;mg/l;122978.58666666667;476843.4266666667
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2009;1.6686567164179105;mg/l;122718.14925373135;479966.49253731343
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2010;2.4571428571428573;mg/l;119617.63909774437;480639.54135338345
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2011;1.8610687022900765;mg/l;121480.69465648854;481411.19847328245
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2012;1.7929203539823009;mg/l;121730.25663716815;482806.4424778761
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2013;1.865625;mg/l;122050.984375;479316.953125
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2014;1.8301204819277108;mg/l;122548.6626506024;478687.7469879518
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2015;2.004938271604938;mg/l;122876.5925925926;480852.7901234568
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2016;1.8653846153846154;mg/l;122788.16666666667;480873.9487179487
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2017;1.9416666666666669;mg/l;123183.56944444444;478407.5416666667
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2018;1.7;mg/l;123130.34848484848;478529.25757575757
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2019;1.7470588235294116;mg/l;123640.95098039215;478719.1568627451
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2020;1.9547826086956523;mg/l;122885.3652173913;477224.4695652174
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2021;2.088034188034188;mg/l;122839.04273504273;477380.452991453
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2022;2.0757121212121215;mg/l;122516.90909090909;477547.63636363635
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2023;2.199099099099099;mg/l;122301.43243243243;476040.5675675676
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2024;2.454639175257732;mg/l;122703.92783505155;475645.1649484536
+NKj_mgN_l;Kjehldahl stikstof (uitgedrukt in mg stikstof/l);2025;2.1666666666666665;mg/l;123838.97222222222;477183.8333333333
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2000;0.06265168539325842;mg/l;120543.79775280898;471818.0449438202
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2001;0.0362089552238806;mg/l;123372.01492537314;474830.62686567166
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2002;0.04226666666666667;mg/l;121903.02222222222;472574.3777777778
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2003;0.05337499999999999;mg/l;122653.4;475736.5
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2004;0.03131578947368421;mg/l;119489.05263157895;475867.65789473685
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2005;0.03928;mg/l;119821.08;478903.16
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2006;0.039411764705882354;mg/l;116445.26470588235;478335.9411764706
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2007;0.05283783783783784;mg/l;123013.2972972973;476402.4864864865
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2008;0.03610389610389611;mg/l;122859.76623376623;476810.5844155844
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2009;0.025970149253731343;mg/l;122718.14925373135;479966.49253731343
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2010;0.023984375000000002;mg/l;119712.546875;480551.359375
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2011;0.023600000000000003;mg/l;121686.744;481339.88
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2012;0.023539823008849558;mg/l;121730.25663716815;482806.4424778761
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2013;0.029843750000000002;mg/l;122050.984375;479316.953125
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2014;0.02325301204819277;mg/l;122548.6626506024;478687.7469879518
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2015;0.022962962962962963;mg/l;122876.5925925926;480852.7901234568
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2016;0.016923076923076923;mg/l;122788.16666666667;480873.9487179487
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2017;0.016338028169014085;mg/l;123218.57746478873;478260.4366197183
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2018;0.01696969696969697;mg/l;123130.34848484848;478529.25757575757
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2019;0.02519607843137255;mg/l;123640.95098039215;478719.1568627451
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2020;0.027130434782608695;mg/l;122885.3652173913;477224.4695652174
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2021;0.027435897435897437;mg/l;122839.04273504273;477380.452991453
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2022;0.02368939393939394;mg/l;122516.90909090909;477547.63636363635
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2023;0.03135135135135135;mg/l;122301.43243243243;476040.5675675676
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2024;0.03742268041237113;mg/l;122703.92783505155;475645.1649484536
+NO2_mgN_l_nf;Nitriet na filtratie (uitgedrukt in mg stikstof/l);2025;0.021388888888888888;mg/l;123838.97222222222;477183.8333333333
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2000;1.2787640449438202;mg/l;120543.79775280898;471818.0449438202
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2001;0.6688059701492538;mg/l;123372.01492537314;474830.62686567166
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2002;0.5528888888888889;mg/l;121903.02222222222;472574.3777777778
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2003;0.687;mg/l;122653.4;475736.5
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2004;0.7302631578947368;mg/l;119489.05263157895;475867.65789473685
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2005;0.636;mg/l;119821.08;478903.16
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2006;0.41764705882352937;mg/l;116445.26470588235;478335.9411764706
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2007;1.045945945945946;mg/l;123013.2972972973;476402.4864864865
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2008;0.704;mg/l;122978.58666666667;476843.4266666667
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2009;0.5671641791044776;mg/l;122718.14925373135;479966.49253731343
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2010;0.4421875;mg/l;119712.546875;480551.359375
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2011;0.484;mg/l;121686.744;481339.88
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2012;0.4911504424778761;mg/l;121730.25663716815;482806.4424778761
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2013;0.46875;mg/l;122050.984375;479316.953125
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2014;0.458433734939759;mg/l;122548.6626506024;478687.7469879518
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2015;0.4274074074074074;mg/l;122876.5925925926;480852.7901234568
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2016;0.36342857142857143;mg/l;122341.44285714286;482081.2571428571
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2017;0.45816901408450705;mg/l;123218.57746478873;478260.4366197183
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2018;0.4843939393939394;mg/l;123130.34848484848;478529.25757575757
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2019;0.7722549019607843;mg/l;123640.95098039215;478719.1568627451
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2020;0.7341739130434783;mg/l;122885.3652173913;477224.4695652174
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2021;0.6546153846153846;mg/l;122839.04273504273;477380.452991453
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2022;0.6655454545454546;mg/l;122516.90909090909;477547.63636363635
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2023;0.7199099099099099;mg/l;122301.43243243243;476040.5675675676
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2024;0.7830927835051545;mg/l;122703.92783505155;475645.1649484536
+NO3_mgN_l_nf;Nitraat na filtratie (uitgedrukt in mg stikstof/l);2025;0.8805555555555555;mg/l;123838.97222222222;477183.8333333333
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2000;4.131627906976744;mg/l;120545.77906976744;472041.75581395347
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2001;3.5459701492537317;mg/l;123372.01492537314;474830.62686567166
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2002;2.946904761904762;mg/l;121891.47619047618;472877.85714285716
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2003;2.976;mg/l;122653.4;475736.5
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2004;4.764473684210526;mg/l;119489.05263157895;475867.65789473685
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2005;3.22;mg/l;120479.91304347826;479164.4347826087
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2006;3.8848484848484843;mg/l;116596.06060606061;478534.8787878788
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2007;3.956081081081081;mg/l;123013.2972972973;476402.4864864865
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2008;2.8565333333333336;mg/l;122978.58666666667;476843.4266666667
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2009;2.4789285714285714;mg/l;123379.94642857143;477394.35714285716
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2010;3.3928431372549017;mg/l;119699.2843137255;476864.39215686277
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2011;2.338139534883721;mg/l;121513.0;481456.82945736434
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2012;2.2653982300884956;mg/l;121730.25663716815;482806.4424778761
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2013;2.34109375;mg/l;122050.984375;479316.953125
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2014;2.3034939759036144;mg/l;122548.6626506024;478687.7469879518
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2015;2.4558024691358025;mg/l;122876.5925925926;480852.7901234568
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2016;2.279102564102564;mg/l;122788.16666666667;480873.9487179487
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2017;2.410416666666667;mg/l;123183.56944444444;478407.5416666667
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2018;2.188787878787879;mg/l;123130.34848484848;478529.25757575757
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2019;2.5388235294117645;mg/l;123640.95098039215;478719.1568627451
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2020;2.7066086956521738;mg/l;122885.3652173913;477224.4695652174
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2021;2.761794871794872;mg/l;122839.04273504273;477380.452991453
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2022;2.7535;mg/l;122516.90909090909;477547.63636363635
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2023;2.9384684684684688;mg/l;122301.43243243243;476040.5675675676
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2024;3.268041237113402;mg/l;122703.92783505155;475645.1649484536
+Ntot_mgN_l;Stikstof (uitgedrukt in mg stikstof);2025;3.065;mg/l;123838.97222222222;477183.8333333333
+O2__;Zuurstofverzadigingspercentage;2000;72.48645833333333;%;120640.83333333333;472405.8854166667
+O2__;Zuurstofverzadigingspercentage;2001;73.7910447761194;%;123657.26865671642;475116.0
+O2__;Zuurstofverzadigingspercentage;2002;70.25641025641026;%;123031.02564102564;470157.9743589744
+O2__;Zuurstofverzadigingspercentage;2003;68.6;%;124196.25714285714;473402.02857142856
+O2__;Zuurstofverzadigingspercentage;2004;66.84;%;119603.68;474345.04
+O2__;Zuurstofverzadigingspercentage;2005;71.97142857142858;%;123544.2;480954.3714285714
+O2__;Zuurstofverzadigingspercentage;2006;43.869565217391305;%;118825.21739130435;481475.6956521739
+O2__;Zuurstofverzadigingspercentage;2007;61.23076923076923;%;122084.76923076923;473314.07692307694
+O2__;Zuurstofverzadigingspercentage;2008;51.26923076923077;%;118302.46153846153;468971.6153846154
+O2__;Zuurstofverzadigingspercentage;2009;73.38636363636364;%;121885.65909090909;476567.54545454547
+O2__;Zuurstofverzadigingspercentage;2010;63.89855072463768;%;118295.26086956522;477276.50724637683
+O2__;Zuurstofverzadigingspercentage;2011;71.04716981132076;%;122228.09433962264;479814.24528301886
+O2__;Zuurstofverzadigingspercentage;2012;76.19607843137256;%;122220.10784313726;482796.67647058825
+O2__;Zuurstofverzadigingspercentage;2013;74.3015873015873;%;121999.57142857143;479463.84126984124
+O2__;Zuurstofverzadigingspercentage;2014;68.83333333333333;%;123037.5;476491.8333333333
+O2__;Zuurstofverzadigingspercentage;2015;69.66666666666667;%;122876.5925925926;480852.7901234568
+O2__;Zuurstofverzadigingspercentage;2016;66.37179487179488;%;122788.16666666667;480873.9487179487
+O2__;Zuurstofverzadigingspercentage;2017;76.74647887323944;%;123218.57746478873;478260.4366197183
+O2__;Zuurstofverzadigingspercentage;2018;74.5909090909091;%;123130.34848484848;478529.25757575757
+O2__;Zuurstofverzadigingspercentage;2019;78.16666666666667;%;123640.95098039215;478719.1568627451
+O2__;Zuurstofverzadigingspercentage;2020;79.56446280991734;%;122699.14876033057;477396.5619834711
+O2__;Zuurstofverzadigingspercentage;2021;80.3076923076923;%;122839.04273504273;477380.452991453
+O2__;Zuurstofverzadigingspercentage;2022;77.96212121212122;%;122516.90909090909;477547.63636363635
+O2__;Zuurstofverzadigingspercentage;2023;76.34234234234235;%;122301.43243243243;476040.5675675676
+O2__;Zuurstofverzadigingspercentage;2024;77.68041237113403;%;122703.92783505155;475645.1649484536
+O2__;Zuurstofverzadigingspercentage;2025;85.025;%;123687.025;477621.65
+O2_mg_l;Zuurstof (mg/l);2000;7.810416666666666;mg/l;120640.83333333333;472405.8854166667
+O2_mg_l;Zuurstof (mg/l);2001;8.182089552238807;mg/l;123657.26865671642;475116.0
+O2_mg_l;Zuurstof (mg/l);2002;7.468888888888889;mg/l;122312.62222222223;469425.97777777776
+O2_mg_l;Zuurstof (mg/l);2003;7.529166666666666;mg/l;123225.66666666667;475291.2083333333
+O2_mg_l;Zuurstof (mg/l);2004;7.038775510204081;mg/l;120903.77551020408;475359.2653061224
+O2_mg_l;Zuurstof (mg/l);2005;6.986792452830189;mg/l;119794.35849056604;479704.5471698113
+O2_mg_l;Zuurstof (mg/l);2006;4.508823529411765;mg/l;116445.26470588235;478335.9411764706
+O2_mg_l;Zuurstof (mg/l);2007;7.006451612903225;mg/l;121881.87096774194;475623.7419354839
+O2_mg_l;Zuurstof (mg/l);2008;6.753012048192771;mg/l;121002.24096385542;474468.4457831325
+O2_mg_l;Zuurstof (mg/l);2009;7.654545454545455;mg/l;121885.65909090909;476567.54545454547
+O2_mg_l;Zuurstof (mg/l);2010;6.665277777777778;mg/l;118680.45833333333;477106.06944444444
+O2_mg_l;Zuurstof (mg/l);2011;7.650943396226415;mg/l;122228.09433962264;479814.24528301886
+O2_mg_l;Zuurstof (mg/l);2012;8.162745098039215;mg/l;122220.10784313726;482796.67647058825
+O2_mg_l;Zuurstof (mg/l);2013;8.2765625;mg/l;122050.984375;479316.953125
+O2_mg_l;Zuurstof (mg/l);2014;7.873493975903615;mg/l;122548.6626506024;478687.7469879518
+O2_mg_l;Zuurstof (mg/l);2015;7.5814814814814815;mg/l;122876.5925925926;480852.7901234568
+O2_mg_l;Zuurstof (mg/l);2016;7.130769230769231;mg/l;122788.16666666667;480873.9487179487
+O2_mg_l;Zuurstof (mg/l);2017;8.352112676056338;mg/l;123218.57746478873;478260.4366197183
+O2_mg_l;Zuurstof (mg/l);2018;8.003030303030304;mg/l;123130.34848484848;478529.25757575757
+O2_mg_l;Zuurstof (mg/l);2019;8.35;mg/l;123640.95098039215;478719.1568627451
+O2_mg_l;Zuurstof (mg/l);2020;8.403801652892563;mg/l;122699.14876033057;477396.5619834711
+O2_mg_l;Zuurstof (mg/l);2021;8.878974358974359;mg/l;122839.04273504273;477380.452991453
+O2_mg_l;Zuurstof (mg/l);2022;8.315267175572519;mg/l;122579.0;477632.09160305344
+O2_mg_l;Zuurstof (mg/l);2023;8.271171171171172;mg/l;122301.43243243243;476040.5675675676
+O2_mg_l;Zuurstof (mg/l);2024;8.24;mg/l;122703.92783505155;475645.1649484536
+O2_mg_l;Zuurstof (mg/l);2025;9.74275;mg/l;123687.025;477621.65
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2000;0.18502247191011234;mg/l;120543.79775280898;471818.0449438202
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2001;0.13367164179104477;mg/l;123372.01492537314;474830.62686567166
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2002;0.06784444444444444;mg/l;121903.02222222222;472574.3777777778
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2003;0.09135;mg/l;122653.4;475736.5
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2004;0.09431578947368421;mg/l;119489.05263157895;475867.65789473685
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2005;0.45718000000000003;mg/l;119821.08;478903.16
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2006;0.39640909090909093;mg/l;119159.59090909091;481916.8181818182
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2007;0.10721621621621621;mg/l;123013.2972972973;476402.4864864865
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2008;0.26985333333333333;mg/l;122978.58666666667;476843.4266666667
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2009;0.09214925373134329;mg/l;122718.14925373135;479966.49253731343
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2010;0.06467088607594937;mg/l;120502.44303797468;484963.35443037975
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2011;0.06545544554455446;mg/l;121100.9405940594;483523.49504950497
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2012;0.029576923076923077;mg/l;121625.67948717948;486072.42307692306
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2013;0.022500000000000003;mg/l;120950.45238095238;483070.8095238095
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2014;0.028237288135593223;mg/l;121896.45762711864;481346.9661016949
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2015;0.12310526315789475;mg/l;122339.57894736843;484516.91228070174
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2016;0.2435217391304348;mg/l;121396.80434782608;487262.52173913043
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2017;0.014527777777777778;mg/l;121366.80555555556;485278.0833333333
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2018;0.007741935483870968;mg/l;121073.80645161291;486384.1612903226
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2019;0.024711864406779662;mg/l;122426.49152542373;482966.9661016949
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2020;0.030690909090909095;mg/l;122483.21818181819;482717.05454545456
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2021;0.025327586206896555;mg/l;122479.55172413793;482792.9310344828
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2022;0.027266666666666668;mg/l;122375.2;483135.2
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2023;0.0371764705882353;mg/l;122909.23529411765;481383.5882352941
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2024;0.03263265306122449;mg/l;123054.55102040817;480906.9591836735
+PO4_mgP_l_nf;Ortho-fosfaat na filtratie (uitgedrukt in mg fosfor/l);2025;0.02755;mg/l;123131.75;480653.75
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2000;0.3365416666666667;mg/l;120640.83333333333;472405.8854166667
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2001;0.39277464788732397;mg/l;123145.3661971831;475857.6901408451
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2002;0.23854545454545456;mg/l;121827.63636363637;472538.1818181818
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2003;0.26070731707317074;mg/l;122787.68292682926;475579.43902439025
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2004;0.3433421052631579;mg/l;119489.05263157895;475867.65789473685
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2005;0.6483207547169813;mg/l;119794.35849056604;479704.5471698113
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2006;0.9914705882352941;mg/l;116445.26470588235;478335.9411764706
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2007;0.2687837837837838;mg/l;123013.2972972973;476402.4864864865
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2008;0.35648648648648645;mg/l;123041.8918918919;476957.24324324325
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2009;0.18134328358208956;mg/l;122718.14925373135;479966.49253731343
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2010;0.3200751879699248;mg/l;119617.63909774437;480639.54135338345
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2011;0.1949618320610687;mg/l;121480.69465648854;481411.19847328245
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2012;0.22115044247787613;mg/l;121730.25663716815;482806.4424778761
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2013;0.2290625;mg/l;122050.984375;479316.953125
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2014;0.18457831325301205;mg/l;122548.6626506024;478687.7469879518
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2015;0.27506172839506177;mg/l;122876.5925925926;480852.7901234568
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2016;0.33064102564102565;mg/l;122788.16666666667;480873.9487179487
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2017;0.165;mg/l;123183.56944444444;478407.5416666667
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2018;0.15424242424242424;mg/l;123130.34848484848;478529.25757575757
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2019;0.1385294117647059;mg/l;123640.95098039215;478719.1568627451
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2020;0.2003478260869565;mg/l;122885.3652173913;477224.4695652174
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2021;0.21316239316239316;mg/l;122839.04273504273;477380.452991453
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2022;0.22725;mg/l;122516.90909090909;477547.63636363635
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2023;0.23459459459459459;mg/l;122301.43243243243;476040.5675675676
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2024;0.2503092783505155;mg/l;122703.92783505155;475645.1649484536
+Ptot_mgP_l;Fosfor (uitgedrukt in mg fosfor/l);2025;0.20472222222222222;mg/l;123838.97222222222;477183.8333333333
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2000;297.55263157894734;mg/l;119660.80701754386;469693.5789473684
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2001;71.91052631578947;mg/l;123517.65789473684;472923.5789473684
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2002;48.07272727272727;mg/l;122706.86363636363;476044.63636363635
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2003;79.95454545454545;mg/l;124882.22727272728;472442.5
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2004;444.4166666666667;mg/l;119259.25;474527.2083333333
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2005;77.50833333333334;mg/l;120801.0;474194.0
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2006;79.45454545454545;mg/l;116608.09090909091;476199.63636363635
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2007;93.55263157894737;mg/l;123623.36842105263;480148.05263157893
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2008;87.2280701754386;mg/l;122233.71929824562;476975.77192982455
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2009;118.04651162790698;mg/l;120818.88372093023;480521.6976744186
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2010;116.8018018018018;mg/l;119685.7027027027;480222.990990991
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2011;119.77669902912622;mg/l;121239.99029126213;481595.1359223301
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2012;84.70175438596492;mg/l;122587.63157894737;478786.8771929825
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2013;85.4054054054054;mg/l;122341.94594594595;476294.97297297296
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2014;83.32692307692308;mg/l;122961.25;476351.67307692306
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2015;80.88235294117646;mg/l;123427.43137254902;480026.29411764705
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2016;77.13636363636364;mg/l;123178.0;480373.6818181818
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2017;91.88888888888889;mg/l;123838.27777777778;475916.5833333333
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2018;96.23214285714286;mg/l;123805.58928571429;475934.3035714286
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2019;111.34065934065934;mg/l;124159.75824175825;476985.52747252746
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2020;116.32173913043478;mg/l;122885.3652173913;477224.4695652174
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2021;113.58119658119658;mg/l;122839.04273504273;477380.452991453
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2022;105.04227272727273;mg/l;122516.90909090909;477547.63636363635
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2023;118.54954954954955;mg/l;122301.43243243243;476040.5675675676
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2024;103.6701030927835;mg/l;122703.92783505155;475645.1649484536
+SO4_mg_l_nf;Sulfaat na filtratie (mg/l);2025;92.47222222222223;mg/l;123838.97222222222;477183.8333333333
+T_oC;Temperatuur (oC);2000;12.354166666666666;oC;120640.83333333333;472405.8854166667
+T_oC;Temperatuur (oC);2001;11.298507462686567;oC;123657.26865671642;475116.0
+T_oC;Temperatuur (oC);2002;13.153846153846153;oC;123031.02564102564;470157.9743589744
+T_oC;Temperatuur (oC);2003;14.0625;oC;123946.04166666667;473842.3333333333
+T_oC;Temperatuur (oC);2004;13.416666666666666;oC;121494.25;474118.30555555556
+T_oC;Temperatuur (oC);2005;13.53404255319149;oC;124117.85106382979;479077.42553191487
+T_oC;Temperatuur (oC);2006;15.714285714285714;oC;124354.80952380953;477370.14285714284
+T_oC;Temperatuur (oC);2007;13.666666666666666;oC;123421.60714285714;476117.2619047619
+T_oC;Temperatuur (oC);2008;13.601075268817205;oC;123765.89247311828;475429.96774193546
+T_oC;Temperatuur (oC);2009;13.884415584415583;oC;123202.48051948052;479032.97402597405
+T_oC;Temperatuur (oC);2010;13.652173913043478;oC;120821.23478260869;481992.05217391305
+T_oC;Temperatuur (oC);2011;12.053435114503817;oC;121480.69465648854;481411.19847328245
+T_oC;Temperatuur (oC);2012;12.248214285714285;oC;121751.51785714286;482714.8839285714
+T_oC;Temperatuur (oC);2013;11.3328125;oC;122050.984375;479316.953125
+T_oC;Temperatuur (oC);2014;12.726506024096386;oC;122548.6626506024;478687.7469879518
+T_oC;Temperatuur (oC);2015;11.904938271604937;oC;122876.5925925926;480852.7901234568
+T_oC;Temperatuur (oC);2016;12.643589743589745;oC;122788.16666666667;480873.9487179487
+T_oC;Temperatuur (oC);2017;12.194366197183099;oC;123218.57746478873;478260.4366197183
+T_oC;Temperatuur (oC);2018;13.213636363636365;oC;123130.34848484848;478529.25757575757
+T_oC;Temperatuur (oC);2019;12.740196078431373;oC;123640.95098039215;478719.1568627451
+T_oC;Temperatuur (oC);2020;13.861157024793389;oC;122699.14876033057;477396.5619834711
+T_oC;Temperatuur (oC);2021;12.126495726495726;oC;122839.04273504273;477380.452991453
+T_oC;Temperatuur (oC);2022;13.10681818181818;oC;122516.90909090909;477547.63636363635
+T_oC;Temperatuur (oC);2023;13.111711711711713;oC;122301.43243243243;476040.5675675676
+T_oC;Temperatuur (oC);2024;13.672727272727272;oC;122577.50505050505;475879.0808080808
+T_oC;Temperatuur (oC);2025;10.0175;oC;123687.025;477621.65
+ZICHT_m;Doorzicht (m);2000;0.4759036144578313;m;119923.61445783133;472130.0481927711
+ZICHT_m;Doorzicht (m);2001;0.6872727272727273;m;123316.3090909091;475323.05454545456
+ZICHT_m;Doorzicht (m);2002;0.3185185185185185;m;122058.14814814815;468376.18518518517
+ZICHT_m;Doorzicht (m);2003;0.48055555555555557;m;122560.88888888889;475665.94444444444
+ZICHT_m;Doorzicht (m);2004;0.4734042553191489;m;120720.10638297872;475410.0
+ZICHT_m;Doorzicht (m);2005;0.6476923076923077;m;120901.43076923076;478578.1076923077
+ZICHT_m;Doorzicht (m);2006;0.54;m;118729.77777777778;477179.0
+ZICHT_m;Doorzicht (m);2007;0.7616575342465753;m;122470.91780821918;475319.2465753425
+ZICHT_m;Doorzicht (m);2008;0.6701086956521739;m;121631.29347826086;474340.82608695654
+ZICHT_m;Doorzicht (m);2009;0.9945454545454546;m;122666.72727272728;475974.63636363635
+ZICHT_m;Doorzicht (m);2010;0.6979166666666666;m;118680.45833333333;477106.06944444444
+ZICHT_m;Doorzicht (m);2011;0.922689075630252;m;121913.57142857143;481261.3697478992
+ZICHT_m;Doorzicht (m);2012;0.8916666666666667;m;122220.10784313726;482796.67647058825
+ZICHT_m;Doorzicht (m);2013;1.175;m;122050.984375;479316.953125
+ZICHT_m;Doorzicht (m);2014;1.0620481927710843;m;122548.6626506024;478687.7469879518
+ZICHT_m;Doorzicht (m);2015;0.9777777777777779;m;122876.5925925926;480852.7901234568
+ZICHT_m;Doorzicht (m);2016;1.0371794871794873;m;122788.16666666667;480873.9487179487
+ZICHT_m;Doorzicht (m);2017;1.1070422535211266;m;123218.57746478873;478260.4366197183
+ZICHT_m;Doorzicht (m);2018;1.1393939393939394;m;123130.34848484848;478529.25757575757
+ZICHT_m;Doorzicht (m);2019;1.2308823529411765;m;123640.95098039215;478719.1568627451
+ZICHT_m;Doorzicht (m);2020;1.5256198347107437;m;122699.14876033057;477396.5619834711
+ZICHT_m;Doorzicht (m);2021;1.335042735042735;m;122839.04273504273;477380.452991453
+ZICHT_m;Doorzicht (m);2022;1.3408396946564887;m;122541.09160305343;477429.213740458
+ZICHT_m;Doorzicht (m);2023;1.1738738738738739;m;122301.43243243243;476040.5675675676
+ZICHT_m;Doorzicht (m);2024;1.2582474226804123;m;122703.92783505155;475645.1649484536
+ZICHT_m;Doorzicht (m);2025;1.5027777777777778;m;123838.97222222222;477183.8333333333
+ZS_mg_l;Zwevende stof (mg/l);2000;17.760714285714286;mg/l;119896.92857142857;472082.89285714284
+ZS_mg_l;Zwevende stof (mg/l);2001;20.428813559322034;mg/l;122723.40677966102;476201.5593220339
+ZS_mg_l;Zwevende stof (mg/l);2002;14.790000000000001;mg/l;121129.05;475135.1
+ZS_mg_l;Zwevende stof (mg/l);2003;21.796666666666667;mg/l;124158.86666666667;473142.93333333335
+ZS_mg_l;Zwevende stof (mg/l);2004;25.397142857142857;mg/l;121312.08571428571;474236.7428571429
+ZS_mg_l;Zwevende stof (mg/l);2005;34.970588235294116;mg/l;123566.82352941176;480937.9117647059
+ZS_mg_l;Zwevende stof (mg/l);2006;11.1;mg/l;122775.0;481514.0
+ZS_mg_l;Zwevende stof (mg/l);2007;31.916666666666668;mg/l;117682.0;468169.0
+ZS_mg_l;Zwevende stof (mg/l);2009;6.454545454545454;mg/l;119349.0;493061.0
+ZS_mg_l;Zwevende stof (mg/l);2010;10.166666666666666;mg/l;120343.01515151515;488258.95454545453
+ZS_mg_l;Zwevende stof (mg/l);2011;7.253968253968254;mg/l;120343.41269841269;488035.09523809527
+ZS_mg_l;Zwevende stof (mg/l);2012;10.050632911392405;mg/l;121710.56962025317;483215.0759493671
+ZS_mg_l;Zwevende stof (mg/l);2013;11.063492063492063;mg/l;122093.87301587302;479098.79365079367
+ZS_mg_l;Zwevende stof (mg/l);2014;13.072289156626505;mg/l;122548.6626506024;478687.7469879518
+ZS_mg_l;Zwevende stof (mg/l);2015;11.037037037037036;mg/l;122876.5925925926;480852.7901234568
+ZS_mg_l;Zwevende stof (mg/l);2016;8.26923076923077;mg/l;122788.16666666667;480873.9487179487
+ZS_mg_l;Zwevende stof (mg/l);2017;8.450704225352112;mg/l;123218.57746478873;478260.4366197183
+ZS_mg_l;Zwevende stof (mg/l);2018;10.984848484848484;mg/l;123130.34848484848;478529.25757575757
+ZS_mg_l;Zwevende stof (mg/l);2019;10.088235294117647;mg/l;123640.95098039215;478719.1568627451
+ZS_mg_l;Zwevende stof (mg/l);2020;11.730434782608695;mg/l;122885.3652173913;477224.4695652174
+ZS_mg_l;Zwevende stof (mg/l);2021;10.452991452991453;mg/l;122839.04273504273;477380.452991453
+ZS_mg_l;Zwevende stof (mg/l);2022;9.850916030534352;mg/l;122489.09923664122;477553.0305343511
+ZS_mg_l;Zwevende stof (mg/l);2023;13.162162162162161;mg/l;122301.43243243243;476040.5675675676
+ZS_mg_l;Zwevende stof (mg/l);2024;17.061855670103093;mg/l;122703.92783505155;475645.1649484536
+ZS_mg_l;Zwevende stof (mg/l);2025;12.527777777777779;mg/l;123838.97222222222;477183.8333333333
+pH;Zuurgraad;2000;7.607872340425532;DIMSLS;118954.68085106384;470023.78723404254
+pH;Zuurgraad;2001;7.664084507042253;DIMSLS;123145.3661971831;475857.6901408451
+pH;Zuurgraad;2002;7.681555555555556;DIMSLS;121903.02222222222;472574.3777777778
+pH;Zuurgraad;2003;7.81952380952381;DIMSLS;124462.04761904762;473435.5238095238
+pH;Zuurgraad;2004;7.749189189189188;DIMSLS;121523.32432432432;474232.97297297296
+pH;Zuurgraad;2005;8.025531914893616;DIMSLS;124117.85106382979;479077.42553191487
+pH;Zuurgraad;2006;8.00952380952381;DIMSLS;124354.80952380953;477370.14285714284
+pH;Zuurgraad;2007;7.998648648648649;DIMSLS;122557.24324324324;475388.25675675675
+pH;Zuurgraad;2008;8.06989247311828;DIMSLS;123765.89247311828;475429.96774193546
+pH;Zuurgraad;2009;8.219696969696969;DIMSLS;123109.40909090909;479351.1818181818
+pH;Zuurgraad;2010;8.0875;DIMSLS;121135.45192307692;482559.14423076925
+pH;Zuurgraad;2011;8.028244274809161;DIMSLS;121480.69465648854;481411.19847328245
+pH;Zuurgraad;2012;8.01061946902655;DIMSLS;121730.25663716815;482806.4424778761
+pH;Zuurgraad;2013;8.153125;DIMSLS;122050.984375;479316.953125
+pH;Zuurgraad;2014;8.073493975903615;DIMSLS;122548.6626506024;478687.7469879518
+pH;Zuurgraad;2015;8.028395061728395;DIMSLS;122876.5925925926;480852.7901234568
+pH;Zuurgraad;2016;7.933333333333333;DIMSLS;122788.16666666667;480873.9487179487
+pH;Zuurgraad;2017;7.9352112676056334;DIMSLS;123218.57746478873;478260.4366197183
+pH;Zuurgraad;2018;7.975757575757576;DIMSLS;123130.34848484848;478529.25757575757
+pH;Zuurgraad;2019;7.955882352941177;DIMSLS;123640.95098039215;478719.1568627451
+pH;Zuurgraad;2020;7.957851239669421;DIMSLS;122699.14876033057;477396.5619834711
+pH;Zuurgraad;2021;7.930769230769231;DIMSLS;122839.04273504273;477380.452991453
+pH;Zuurgraad;2022;7.933712121212121;DIMSLS;122516.90909090909;477547.63636363635
+pH;Zuurgraad;2023;7.892792792792793;DIMSLS;122301.43243243243;476040.5675675676
+pH;Zuurgraad;2024;7.901010101010101;DIMSLS;122577.50505050505;475879.0808080808
+pH;Zuurgraad;2025;8.051;DIMSLS;123687.025;477621.65
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2008;0.5167441860465116;mg/l;123106.58139534884;476272.62790697673
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2009;0.6669642857142858;mg/l;123379.94642857143;477394.35714285716
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2010;0.5434313725490196;mg/l;119699.2843137255;476864.39215686277
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2011;0.4823664122137405;mg/l;121480.69465648854;481411.19847328245
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2012;0.4872566371681416;mg/l;121730.25663716815;482806.4424778761
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2013;0.4790625;mg/l;122050.984375;479316.953125
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2014;0.4860240963855422;mg/l;122548.6626506024;478687.7469879518
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2015;0.4603703703703704;mg/l;122876.5925925926;480852.7901234568
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2016;0.4291025641025641;mg/l;122788.16666666667;480873.9487179487
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2017;0.48250000000000004;mg/l;123183.56944444444;478407.5416666667
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2018;0.4921212121212122;mg/l;123130.34848484848;478529.25757575757
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2019;0.7914705882352941;mg/l;123640.95098039215;478719.1568627451
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2020;0.7604347826086957;mg/l;122885.3652173913;477224.4695652174
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2021;0.6787179487179487;mg/l;122839.04273504273;477380.452991453
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2022;0.6851363636363637;mg/l;122516.90909090909;477547.63636363635
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2023;0.7464864864864865;mg/l;122301.43243243243;476040.5675675676
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2024;0.8136082474226805;mg/l;122703.92783505155;475645.1649484536
+sNO3NO2_mgN_l_nf;Som nitraat en nitriet na filtratie (uitgedrukt in mg stikstof/l) (mg/l);2025;0.8988888888888888;mg/l;123838.97222222222;477183.8333333333

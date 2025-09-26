@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-# plot_folder_timeseries.py
+# plot_folder_timeseries_quarterly.py
 #
 # Usage:
-#   python plot_folder_timeseries.py <input_dir> <output_dir> [--show]
+#   python plot_folder_timeseries_quarterly.py <input_dir> <output_dir> [--show]
 #
 # - Expects each CSV to have at least: datum;meetwaarde
 # - Delimiter is ';'
@@ -18,6 +18,7 @@ import sys
 import glob
 from datetime import datetime
 import math
+from collections import defaultdict
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -26,7 +27,7 @@ import matplotlib.dates as mdates
 REQUIRED_COLS = ["datum", "meetwaarde"]  # case-insensitive
 
 def parse_args():
-    ap = argparse.ArgumentParser(description="Plot one time-series graph per CSV in a folder.")
+    ap = argparse.ArgumentParser(description="Plot one time-series graph per CSV in a folder (quarterly averages).")
     ap.add_argument("input_dir", help="Directory containing the per-parameter CSV files")
     ap.add_argument("output_dir", help="Directory to write PNG plots")
     ap.add_argument("--show", action="store_true", help="Also display plots interactively")
@@ -52,15 +53,12 @@ def parse_date(s: str):
     s = s.strip()
     if not s:
         return None
-    # Fast path: YYYY[-MM[-DD]] [HH:MM]
-    # Try common formats
     fmts = ["%Y-%m-%d %H:%M", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"]
     for fmt in fmts:
         try:
             return datetime.strptime(s, fmt)
         except ValueError:
             pass
-    # Fallback: if first 4 are digits, try only year-month-day substr
     if len(s) >= 10 and s[:4].isdigit():
         try:
             return datetime.strptime(s[:10], "%Y-%m-%d")
@@ -81,10 +79,8 @@ def parse_numeric(s: str):
     s = s.strip()
     if not s:
         return None
-    # Remove qualifiers like '<' or '>' (keep the number)
     if s[0] in "<>~≈≲≳":
         s = s[1:].strip()
-    # Replace decimal comma
     s = s.replace(",", ".")
     try:
         val = float(s)
@@ -94,22 +90,26 @@ def parse_numeric(s: str):
     except ValueError:
         return None
 
+def quarter_key(dt: datetime):
+    """Return (year, quarter_number 1..4) for a datetime."""
+    q = (dt.month - 1) // 3 + 1
+    return dt.year, q
+
+def quarter_start_date(year: int, q: int) -> datetime:
+    """Representative date for a quarter: first day of the quarter."""
+    month = (q - 1) * 3 + 1
+    return datetime(year, month, 1)
+
 def title_from_meta(basename, first_row, opt_idx):
-    """
-    Prefer a meaningful title using fewsparameternaam or fewsparameter,
-    falling back to file name.
-    """
     title_parts = []
     if "fewsparameternaam" in opt_idx:
         title_parts.append(first_row[opt_idx["fewsparameternaam"]].strip())
     elif "fewsparameter" in opt_idx:
         title_parts.append(first_row[opt_idx["fewsparameter"]].strip())
-
     if "fewsparametercategorie" in opt_idx:
         cat = first_row[opt_idx["fewsparametercategorie"]].strip()
         if cat:
             title_parts.append(f"({cat})")
-
     title = " ".join([p for p in title_parts if p]) if title_parts else basename
     return title or basename
 
@@ -117,13 +117,16 @@ def y_label_from_meta(first_row, opt_idx):
     if "eenheid" in opt_idx:
         unit = first_row[opt_idx["eenheid"]].strip()
         if unit:
-            return f"meetwaarde [{unit}]"
-    return "meetwaarde"
+            return f"meetwaarde (quarterly avg) [{unit}]"
+    return "meetwaarde (quarterly avg)"
 
 def plot_file(csv_path, out_dir):
     basename = os.path.splitext(os.path.basename(csv_path))[0]
-    dates = []
-    vals = []
+
+    # Accumulators per (year, quarter)
+    sums = defaultdict(float)
+    counts = defaultdict(int)
+
     meta_title_row = None
 
     with open(csv_path, "r", encoding="utf-8-sig", newline="") as f:
@@ -146,38 +149,39 @@ def plot_file(csv_path, out_dir):
         for row_i, row in enumerate(reader, start=2):
             if not row:
                 continue
-            # Keep a row around for title labels if we haven't yet
             if meta_title_row is None:
                 meta_title_row = row
-
             if i_datum >= len(row) or i_meetwaarde >= len(row):
                 continue
+
             dt = parse_date(row[i_datum])
             v = parse_numeric(row[i_meetwaarde])
             if dt is None or v is None:
                 continue
-            dates.append(dt)
-            vals.append(v)
 
-    if not dates:
+            key = quarter_key(dt)
+            sums[key] += v
+            counts[key] += 1
+
+    if not counts:
         print(f"[INFO] No plottable rows in: {csv_path}")
         return
 
-    # Sort by time (in case input isn't ordered)
-    order = np.argsort(np.array(dates, dtype="datetime64[ns]"))
-    dates = [dates[i] for i in order]
-    vals  = [vals[i]  for i in order]
+    # Build sorted (date, avg) per quarter
+    keys_sorted = sorted(counts.keys())  # sorts by (year, quarter)
+    q_dates = [quarter_start_date(y, q) for (y, q) in keys_sorted]
+    q_values = [sums[k] / counts[k] for k in keys_sorted]
 
     # Create the plot (one graph per file)
     plt.figure()
-    plt.plot_date(dates, vals, linestyle='solid', marker=None)  # no explicit colors
+    plt.plot_date(q_dates, q_values, linestyle='solid', marker=None)  # no explicit colors
     plt.gcf().autofmt_xdate()
 
     # Configure x-axis date formatting
     ax = plt.gca()
     ax.xaxis.set_major_locator(mdates.AutoDateLocator())
     ax.xaxis.set_major_formatter(mdates.ConciseDateFormatter(ax.xaxis.get_major_locator()))
-    ax.set_xlabel("datum")
+    ax.set_xlabel("datum (quarter)")
 
     # Titles/labels
     title = title_from_meta(basename, meta_title_row or [], opt_idx)
@@ -209,5 +213,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
