@@ -207,14 +207,19 @@ def compute_vif(X: pd.DataFrame) -> pd.DataFrame:
 # ---------- Plot heatmap (matplotlib only) ----------
 
 def plot_corr_heatmap(corr: pd.DataFrame, out_path: str):
+    def shorten(label: str) -> str:
+        label = str(label)
+        if "_" in label:    # pak stuk voor de eerste underscore
+            label = label.split("_")[0]
+        return label[:15]   # maximaal 15 tekens
+
     fig, ax = plt.subplots()
     im = ax.imshow(corr.to_numpy(), aspect='auto', interpolation='nearest')
-    ax.set_xticks(np.arange(corr.shape[1]))
-    ax.set_yticks(np.arange(corr.shape[0]))
-    ax.set_xticklabels(list(corr.columns), rotation=90)
-    ax.set_yticklabels(list(corr.index))
+    ax.set_xticks(np.arange(corr.shape[1])); ax.set_yticks(np.arange(corr.shape[0]))
+    ax.set_xticklabels([shorten(c) for c in corr.columns], rotation=90)
+    ax.set_yticklabels([shorten(i) for i in corr.index])
     ax.set_title("Correlation matrix")
-    fig.colorbar(im, ax=ax, fraction=0.046, pad=0.04)
+    fig.colorbar(im, ax=ax, fraction=0.046, pad=0.04, label="Correlation coefficient (r)")
     fig.tight_layout()
     plt.savefig(out_path, dpi=150, bbox_inches="tight")
     plt.close(fig)
